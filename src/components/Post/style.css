@@ -1,0 +1,44 @@
+.wrapper-post {
+  min-width: 700px;
+  padding: 20px;
+
+  border-radius: 4px;
+  box-shadow: 0 0 10px;
+}
+
+.wrapper-user {
+  display: grid;
+  grid-template-columns: 40px 200px;
+  grid-column-gap : 10px;
+
+  margin-bottom: 15px;
+}
+
+.avatar {
+  grid-row: 1 / 3;
+}
+
+.name {
+  font-size: 14px;
+  color: #4A4A4A;
+}
+
+.date {
+  font-size: 11px;
+  color: #9A9A9A;
+  position: relative;
+
+  top: -5px;
+
+  grid-column: 2;
+}
+
+.content::after {
+  content: '';
+  display: block;
+  height: 1px;
+  width: 660px;
+  margin: 20px 0;
+
+  background-color: #EEEEEE;
+}
