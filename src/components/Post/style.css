@@ -3,7 +3,12 @@
   padding: 20px;
 
   border-radius: 4px;
-  box-shadow: 0 0 10px;
+  box-shadow: 0 0 4px #a9a7a7;
+  background-color: white;
+}
+
+.wrapper-post:not(:last-child) {
+  margin-bottom: 20px;
 }
 
 .wrapper-user {
