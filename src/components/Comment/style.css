@@ -1,0 +1,17 @@
+.wrapper-comment {
+  display: flex;
+
+  margin-bottom: 10px;
+}
+
+.wrapper-comment > img {
+  margin-right: 10px;
+}
+
+.comment {
+  padding: 10px 15px;
+  background-color: #EEEEEE;
+  border-radius: 20px;
+  font-size: 13px;
+  color: #3E3E3E;
+}
