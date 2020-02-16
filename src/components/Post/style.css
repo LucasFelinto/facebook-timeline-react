@@ -38,6 +38,11 @@
   grid-column: 2;
 }
 
+.content {
+  font-size: 14px;
+  color: #3E3E3E;
+}
+
 .content::after {
   content: '';
   display: block;
