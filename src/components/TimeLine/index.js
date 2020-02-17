@@ -36,7 +36,7 @@ const posts = [
       {
         id: 1,
         author: {
-          name: "Diego Fernandes",
+          name: "Clara Lisboa",
           avatar: "https://i.ibb.co/178pppT/Rectangle-4-2x.png"
         },
         content: "Clara Lisboa Também estou fazendo o Bootcamp e estou adorando! Estou no terceiro módulo sobre Node e já tenho minha API dos desafios contruída!"
@@ -44,7 +44,7 @@ const posts = [
       {
         id: 1,
         author: {
-          name: "Diego Fernandes",
+          name: "Cézar Toledo",
           avatar: "https://i.ibb.co/Drf05kZ/Rectangle-4-2x.png"
         },
         content: "Cézar Toledo Que maaaaassa! Estou pensando em me inscrever na próxima turma pra ver qual é desse Bootcamp GoStack, dizem que os devs saem de lá com super poderes!"
